@@ -432,11 +432,13 @@
 }
 .guild-channels
 {
-    font-family: Roboto Light;
+    font-family: Roboto;
+    font-weight: 300;
 }
 .guild-header header
 {
-    font-family: Roboto Black;
+    font-family: Roboto;
+    font-weight: 900;
 }
 .guild-header
 {
